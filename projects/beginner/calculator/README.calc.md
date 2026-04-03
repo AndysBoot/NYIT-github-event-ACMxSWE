@@ -1,11 +1,9 @@
 # 🧮 Simple Calculator
-#(((REWRITE THIS)))
+#(((REWRITE THIS))) "change the template and add challenges for users
 
 ## Description
 A basic calculator that performs arithmetic operations.
 
-## How to Run
-python calculator.py
 
 ## Concepts
 - User input
@@ -16,3 +14,8 @@ python calculator.py
 - Add power (^)
 - Add loop for continuous use
 - Handle division by zero
+
+
+THIS PROJECT HAS BEEN PROVIDED BY: https://github.com/Efeckc17/simple-example-projects-in-Python
+Credit: Efeckc17
+MIT License
