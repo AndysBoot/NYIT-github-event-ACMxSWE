@@ -1,5 +1,5 @@
 # NYIT-github-event-ACM
-(((REWRITE))) "Self reminder to rewrite this readme template and make it more personalized for the ACM Event"
+(((REWRITE))) "Self reminder to rewrite this readme template and make it more personalized/polished for the ACM Event"
 
 🚀 Welcome to Your GitHub Learning Hub
 
@@ -45,7 +45,7 @@ git clone https://github.com/AndysBoot/NYIT-github-event-ACM.git
 
 Then navigate into the folder:
 
-cd NYIT-github-event-ACm
+cd NYIT-github-event-ACM
 📁 Projects
 
 Inside this repository, you’ll find a folder called:
