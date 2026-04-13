@@ -4,10 +4,9 @@
 A basic calculator that performs arithmetic operations within the command line terminal
 
 ## Challenges
-- Add power (^)
-- Add loops for continuous use
-- Handle division by zero
-- Add parenthesis support (PEMDAS)
+- allow use for keywords like abs, round, pow, and etc
+- allow for trigonometric functions like cos and sin
+- implement a square root function
 
 
 
