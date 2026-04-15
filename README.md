@@ -1,6 +1,6 @@
 # NYIT-github-event-ACMxSWE
 
-:wave:Hello and Welcome! 
+:wave:Hello and Welcome to the official ACM Github Workshop Repository! 
 
 The goal of this workshop is to get you comfortable with the ins and outs of using GitHub.
 
@@ -26,10 +26,10 @@ By the end of this session, you will know how to:
 
 ## Installing
 
-* make sure to properly install the latest version of git: https://git-scm.com/install/
+* Make sure to properly install the latest version of git: https://git-scm.com/install/
 
 ## Authors
-- Done for ACM and SWE @ NYIT
+- Done by ACM @ NYIT
 - Created by Andy Sosa(https://github.com/AndysBoot), with collaboration from Jeffrey Chu (https://github.com/jeffreychu0)
 
 
